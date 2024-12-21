@@ -13,6 +13,9 @@
         android:theme="@style/Theme.ThiCK124LTDD03V2L"
         tools:targetApi="31">
         <activity
+            android:name=".membername"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

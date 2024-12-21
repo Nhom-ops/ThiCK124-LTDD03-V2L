@@ -443,8 +443,7 @@
                 android:id="@+id/btntaikhoan"
                 android:layout_width="wrap_content"
                 android:layout_height="30dp"
-                android:background="#F6F3EF"
-                android:src="@drawable/admin6" />
+                android:background="#F6F3EF" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -465,8 +464,7 @@
                 android:id="@+id/btncanhan"
                 android:layout_width="wrap_content"
                 android:layout_height="30dp"
-                android:background="#F6F3EF"
-                android:src="@drawable/admin4" />
+                android:background="#F6F3EF" />
 
             <TextView
                 android:layout_width="wrap_content"
